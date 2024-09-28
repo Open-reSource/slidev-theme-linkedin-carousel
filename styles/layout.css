@@ -1,0 +1,31 @@
+:root {
+  --slidev-theme-primary: #5a5c5d;
+  --slidev-theme-lk-bg: #fff;
+  --slidev-theme-lk-text: #2c2d2f;
+}
+
+html {
+  /* Fix PDF rendering issues with box-shadow */
+  -webkit-print-color-adjust: exact;
+  -webkit-filter: opacity(1);
+}
+
+.slidev-layout {
+  background-color: var(--slidev-theme-lk-bg);
+  color: var(--slidev-theme-lk-text);
+
+  @apply h-full grid;
+
+  h1 {
+    @apply text-6xl leading-20 font-bold capitalize;
+  }
+
+  p {
+    @apply leading-none;
+  }
+
+  img {
+    @apply rounded-lg shadow-2xl;
+  }
+}
+

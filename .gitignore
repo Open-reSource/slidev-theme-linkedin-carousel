@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+*.local
+.vite-inspect
+.remote-assets
+.idea/
+components.d.ts
+
+*.pdf
+*.tgz
