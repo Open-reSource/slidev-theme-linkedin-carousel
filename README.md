@@ -1,8 +1,10 @@
 # Slidev Theme LinkedIn Carousel
 
-[![NPM version](https://img.shields.io/npm/v/slidev-theme-linkedin-carousel?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-linkedin-carousel)
+[![NPM version](https://img.shields.io/npm/v/slidev-theme-linkedin-carousel?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-linkedin-carousel) [![Netlify Status](https://api.netlify.com/api/v1/badges/3b473a3c-66df-449e-b144-ca223b269e2e/deploy-status)](https://app.netlify.com/sites/slidev-theme-lk-carousel/deploys)
 
 A [Slidev](https://github.com/slidevjs/slidev) theme to create LinkedIn carousels.
+
+Check out our [live preview](https://slidev-theme-lk-carousel.netlify.app)!
 
 ## Install
 
