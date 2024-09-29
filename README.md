@@ -51,14 +51,14 @@ This theme provides the following components:
 
 ## Screenshots
 
-![Screenshot](./example-export/1.png)
+![Screenshot](https://cdn.jsdelivr.net/npm/slidev-theme-linkedin-carousel@latest/example-export/1.png)
 
-![Screenshot](./example-export/2.png)
+![Screenshot](https://cdn.jsdelivr.net/npm/slidev-theme-linkedin-carousel@latest/example-export/2.png)
 
-![Screenshot](./example-export/3.png)
+![Screenshot](https://cdn.jsdelivr.net/npm/slidev-theme-linkedin-carousel@latest/example-export/3.png)
 
-![Screenshot](./example-export/4.png)
+![Screenshot](https://cdn.jsdelivr.net/npm/slidev-theme-linkedin-carousel@latest/example-export/4.png)
 
-![Screenshot](./example-export/5.png)
+![Screenshot](https://cdn.jsdelivr.net/npm/slidev-theme-linkedin-carousel@latest/example-export/5.png)
 
-![Screenshot](./example-export/6.png)
+![Screenshot](https://cdn.jsdelivr.net/npm/slidev-theme-linkedin-carousel@latest/example-export/6.png)
