@@ -64,3 +64,11 @@ This theme provides the following components:
 ![Screenshot](https://cdn.jsdelivr.net/npm/slidev-theme-linkedin-carousel@latest/example-export/5.png)
 
 ![Screenshot](https://cdn.jsdelivr.net/npm/slidev-theme-linkedin-carousel@latest/example-export/6.png)
+
+## Sponsors of Open {re}Source
+
+<p align="center">
+  <a href="https://github.com/sponsors/Open-reSource" aria-label="Go to Open {re}Source's GitHub Sponsors page">
+    <img src='https://cdn.jsdelivr.net/gh/Open-reSource/sponsors/sponsors.svg'/>
+  </a>
+</p>
