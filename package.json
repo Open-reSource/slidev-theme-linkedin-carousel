@@ -23,12 +23,12 @@
     "screenshot": "slidev export example.md --format png"
   },
   "dependencies": {
-    "@slidev/types": "^0.50.0",
+    "@slidev/types": "^51.0.2",
     "prism-theme-vars": "^0.2.5"
   },
   "devDependencies": {
-    "@slidev/cli": "^0.50.0",
-    "playwright-chromium": "^1.49.1"
+    "@slidev/cli": "^51.0.2",
+    "playwright-chromium": "^1.50.0"
   },
   "slidev": {
     "colorSchema": "light",
