@@ -27,7 +27,7 @@
     "prism-theme-vars": "^0.2.5"
   },
   "devDependencies": {
-    "@slidev/cli": "^51.7.1",
+    "@slidev/cli": "^51.8.0",
     "playwright-chromium": "^1.52.0"
   },
   "slidev": {
