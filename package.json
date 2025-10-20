@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@slidev/cli": "^52.2.5",
-    "playwright-chromium": "^1.56.0"
+    "playwright-chromium": "^1.56.1"
   },
   "slidev": {
     "colorSchema": "light",
