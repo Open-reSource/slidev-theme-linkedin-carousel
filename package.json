@@ -23,7 +23,7 @@
     "screenshot": "slidev export example.md --format png"
   },
   "dependencies": {
-    "@slidev/types": "^52.9.0",
+    "@slidev/types": "^52.9.1",
     "prism-theme-vars": "^0.2.5"
   },
   "devDependencies": {
