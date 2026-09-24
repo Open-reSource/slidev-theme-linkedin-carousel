@@ -40,10 +40,12 @@ layout: default
 Code snippets by default.
 
 <div class="my-4 text-3xl">
+
 ```js
 console.log('Cool, right?');
 console.log('You can use Markdown syntax to add code snippets too!');
 ```
+
 </div>
 
 <hr class="my-10" >
