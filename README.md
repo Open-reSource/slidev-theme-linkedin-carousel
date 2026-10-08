@@ -1,10 +1,13 @@
-# Slidev Theme LinkedIn Carousel
+<h1 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/logo-title-dark.svg"><source media="(prefers-color-scheme: light)" srcset=".github/logo-title-light.svg"><img src=".github/logo-title-light.png" width="528" alt="LinkedIn Carousel"></picture></h1>
 
-[![NPM version](https://img.shields.io/npm/v/slidev-theme-linkedin-carousel?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-linkedin-carousel) [![Netlify Status](https://api.netlify.com/api/v1/badges/3b473a3c-66df-449e-b144-ca223b269e2e/deploy-status)](https://app.netlify.com/sites/slidev-theme-lk-carousel/deploys)
+<p align="center">A <a href="https://github.com/slidevjs/slidev">Slidev</a> theme to create LinkedIn carousels.</p>
 
-A [Slidev](https://github.com/slidevjs/slidev) theme to create LinkedIn carousels.
+<p align="center"><a href="https://slidev-theme-lk-carousel.netlify.app"><strong>Open the live preview »</strong></a></p>
 
-Check out our [live preview](https://slidev-theme-lk-carousel.netlify.app)!
+<p align="center">
+  <a href="https://www.npmjs.com/package/slidev-theme-linkedin-carousel"><img src="https://img.shields.io/npm/v/slidev-theme-linkedin-carousel?color=3AB9D4&label=" alt="NPM version"></a>
+  <a href="https://app.netlify.com/sites/slidev-theme-lk-carousel/deploys"><img src="https://api.netlify.com/api/v1/badges/3b473a3c-66df-449e-b144-ca223b269e2e/deploy-status" alt="Netlify Status"></a>
+</p>
 
 ## Install
 
