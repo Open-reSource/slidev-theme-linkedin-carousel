@@ -30,6 +30,9 @@
     "@slidev/cli": "^53.0.0",
     "playwright-chromium": "^1.63.0"
   },
+  "overrides": {
+    "dompurify": "^3.4.16"
+  },
   "slidev": {
     "colorSchema": "light",
     "highlighter": "all",
