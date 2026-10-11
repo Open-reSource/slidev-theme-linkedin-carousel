@@ -31,7 +31,10 @@
     "playwright-chromium": "^1.63.0"
   },
   "overrides": {
-    "dompurify": "^3.4.16"
+    "dompurify": "^3.4.16",
+    "mermaid": {
+      "katex": "^0.18.7"
+    }
   },
   "slidev": {
     "colorSchema": "light",
