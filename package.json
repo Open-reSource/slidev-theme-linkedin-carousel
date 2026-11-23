@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@slidev/cli": "^53.1.0",
-    "playwright-chromium": "^1.65.0"
+    "playwright-chromium": "^1.65.1"
   },
   "overrides": {
     "dompurify": "^3.4.17",
